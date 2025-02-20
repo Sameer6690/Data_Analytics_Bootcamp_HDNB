@@ -46,6 +46,7 @@ The following questions were answered using SQL queries:
 - **Google BigQuery**: SQL-based data analysis.
 - **Data Visualization**: Google Data Studio.
 
+![Titanic Dashboard](./HDNB_Project_Dashboard.png)
 [Dashboard Link](https://lookerstudio.google.com/reporting/a5ca317c-23c9-45af-a8e2-2ceb80aaaab2)
 
 
